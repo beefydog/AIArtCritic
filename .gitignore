@@ -361,3 +361,7 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/ArtEvaluatorAPI/appsettings.json
+/ArtEvaluatorAPI/ChatPrompt.txt
+/ArtEvaluatorAPI/DummyResponse.txt
+/ArtEvaluatorAPI/appsettings.Development.json
